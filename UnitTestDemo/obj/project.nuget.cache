@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "73JG4AjTD1EO7JLw/w+M8N+m9EX2S3gre0vuATvVX8Wt/0DuS7cGwrI8Cd5n5oi0YE/4avSMQbaCTRLxGyQdeQ==",
+  "dgSpecHash": "aqqui4dtp6KBjQi3tHmoyKX+51ZcsYYOasS8DOfSfHbSm1C3NNBL71vYcmjRQEJPxH4YSWnky8qyVUJzcyjrTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tbaird\\Desktop\\CourseWork\\UnitTestDemo\\CIV_Unit_Test_Demo\\UnitTestDemo\\UnitTestDemo.csproj",
+  "projectFilePath": "/home/callum/repos/CIV_Unit_Test_Demo/UnitTestDemo/UnitTestDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
